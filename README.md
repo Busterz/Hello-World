@@ -1,4 +1,4 @@
-# Hello-world
-New to repository
+# Hello World!
+This is my first repository created when I first joined Github.
 
-I am a new user on github.
+I use this repository to just post different ways of saying "Hello World!" now.
